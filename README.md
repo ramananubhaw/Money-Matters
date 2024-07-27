@@ -1,6 +1,6 @@
 # Money Matters
 
-An Expense-tracker app built using MERN stack.<br><br>
+An expense-tracker app built using MERN stack.<br><br>
 
 Frontend - React JS<br>
 Backend - Node (Express JS)<br>
